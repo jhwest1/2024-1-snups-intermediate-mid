@@ -9,3 +9,5 @@
 - Week 3 (2024/05/14) - Binary search [Video](https://drive.google.com/file/d/1Tu_1zVl2_F_fPFgMXjk0XqTYUMWEswML/view?usp=sharing)
 
 - Week 4 (2024/05/21) - Greedy algorithm [Video](https://drive.google.com/file/d/1k2ngQ6cGlgFvnTUUd0Klg3BSLEbcGhHj/view?usp=sharing)
+
+- Week 5 (2024/05/28) - Shortest Path [Video](https://drive.google.com/file/d/11ndZfXHaUSHk6aR5RqcyzCzVw1WMMAc6/view?usp=sharing)
